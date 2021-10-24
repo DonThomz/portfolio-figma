@@ -1,4 +1,7 @@
-# portofollio-figma
+# portfolio-figma
+
+Portfolio recreate from https://www.figma.com/community/file/1032917254050029724
+
 
 ## Project setup
 ```
