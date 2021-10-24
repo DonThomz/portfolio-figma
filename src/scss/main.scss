@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, serif;
+}
+.link-primary {
+  background: $primary;
+  border-radius: 10px;
+  padding: 10px 18px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 37px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.055em;
+
+  color: #FFFFFF;
+}
+
+.small-text {
+  font-size: 18px;
+}
